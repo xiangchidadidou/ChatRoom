@@ -1,0 +1,6 @@
+先跑服务器（server）
+npm i
+node app
+再跑前端
+npm i
+npm run dev
